@@ -33,7 +33,9 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 <br>
 <br>
 <br>
-<br>
+<br><br>
+<br><br>
+<br><br>
 
 # OUTPUT
 ![image](https://github.com/ragav-47/rl-policy-evaluation/assets/75235488/9b53faf5-52ab-4c33-86d5-9c06985669fc)
